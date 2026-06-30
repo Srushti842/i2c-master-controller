@@ -35,6 +35,8 @@ The testbench (`tb_i2c_master.v`) models a real-world system environment:
 
 ---
 
+ **`WAVEFORM.png`**
+
 ## 🚀 How to Compile and Simulate
 
 ### Prerequisites
@@ -52,4 +54,3 @@ vvp i2c_legacy_design.vvp
 
 # 3. View the digital waveforms in GTKWave
 gtkwave i2c_sim.vcd
-
